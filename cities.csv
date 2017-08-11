@@ -1,0 +1,147 @@
+city,city_url
+Москва,/Moscow
+Санкт-Петербург,/Peterburg
+Абакан,/Abakan
+Абинск,/Abinsk
+Александров,/Alexandrov
+Альметьевск,/Almetyevsk
+Ангарск,/Angarsk
+Армавир,/Armavir
+Астрахань,/Astrakhan
+Ачинск,/Achinsk
+Балаково,/Balakovo
+Балашиха,/Balashiha
+Батайск,/Bataysk
+Белгород,/Belgorod
+Бердск,/Berdsk
+Березники,/Berezniki
+Благовещенск,/Blagoveschensk
+Братск,/Bratsk
+Брянск,/Bryansk
+Бугульма,/Bugulma
+Бузулук,/Buzuluk
+Великий Новгород,/VelikiyNovgorod
+Вельск,/Velsk
+Владимир,/Vladimir
+Волгоград,/Volgograd
+Волжский (Волгоградская обл.),/Volzhskii
+Вологда,/Vologda
+Воронеж,/Voronezh
+Воскресенск,/Voskresensk
+Воткинск,/Votkinsk
+Всеволожск,/Vsevolozhsk
+Выборг,/Vyborg
+Гатчина,/gatchina
+Дедовск,/Dedovsk
+Дмитров,/Dmitrov
+Долгопрудный,/Dolgoprudniy
+Домодедово,/Domodedovo
+Дубна,/Dubna
+Екатеринбург,/Ekaterinburg
+Железнодорожный,/Zheldor
+Зеленоград,/Zelenograd
+Зеленокумск,/Zelenokumsk
+Иваново,/Ivanovo
+Ижевск,/Izhevsk
+Йошкар-Ола,/YoshkarOla
+Казань,/Kazan
+Калачинск,/Kalachinsk
+Калининград,/Kaliningrad
+Калуга,/Kaluga
+Каменск-Уральский,/Kamenskuralskiy
+Камышин,/Kamyshin
+Киров,/Kirov
+Клин,/Klin
+Ковров,/Kovrov
+Коломна,/Kolomna
+Колпино,/Kolpino
+Коммунарка,/Kommunarka
+Комсомольск-на-Амуре,/KomsomolskNaAmure
+Королёв,/Korolev
+Красногорск,/Krasnogorsk
+Краснодар,/Krasnodar
+Лениногорск,/Leninogorsk
+Ленинск-Кузнецкий,/LeninskKuznetskiy
+Лобня,/Lobnya
+Люберцы,/Lyubertsy
+Майкоп,/Maikop
+Махачкала,/Mahachkala
+Московский,/Moskovsky
+Муром,/Murom
+Мытищи,/Mytishi
+Набережные Челны,/NaberezhnyeChelny
+Нахабино,/Nahabino
+Находка,/Nakhodka
+Нефтекамск,/Neftekamsk
+Нефтеюганск,/Nefteyugansk
+Нижневартовск,/Nizhnevartovsk
+Нижнекамск,/Nizhnekamsk
+Нижний Новгород,/NizhnyNovgorod
+Нижний Тагил,/NizhnyTagil
+Новоалтайск,/Novoaltaysk
+Новокуйбышевск,/Novokuibyshevsk
+Новороссийск,/Novorossiysk
+Новочебоксарск,/Novocheboksarsk
+Новочеркасск,/Novocherkassk
+Новый Уренгой,/NovyUrengoy
+Ногинск,/Noginsk
+Обнинск,/Obninsk
+Одинцово,/Odintsovo
+Октябрьский (Р. Башкортостан),/Oktyabrskiy
+Оренбург,/Orenburg
+Орехово-Зуево,/OrehovoZuevo
+"Парнас, Парголово",/Pargolovo
+Пенза,/penza
+Пермь,/Perm
+Петергоф,/Petergof
+Петрозаводск,/Petrozavodsk
+Псков,/Pskov
+Пушкино,/Pushkino
+Радужный (Владимирская обл.),/Raduzhnyi
+Раменское,/ramenskoe
+Реутов,/Reutov
+Ростов-на-Дону,/RostovNaDonu
+Рыбинск,/Rybinsk
+Рязань,/Ryazan
+Салават,/Salavat
+Самара,/Samara
+Саранск,/Saransk
+Сарапул,/Sarapul
+Саратов,/Saratov
+Северск,/Seversk
+Сергиев Посад,/SergievPosad
+Серпухов,/Serpuhov
+Сертолово,/Sertolovo
+Смоленск,/Smolensk
+Соль-Илецк,/Solileck
+Сосновый Бор,/SosnovyBor
+Сочи,/Sochi
+Старая Купавна,/StarayaKupavna
+Сургут,/Surgut
+Сызрань,/Syzran
+Сыктывкар,/Syktyvkar
+Таганрог,/Taganrog
+Тамбов,/Tambov
+Тверь,/Tver
+Тобольск,/Tobolsk
+Тольятти,/Tolyatti
+Томск,/Tomsk
+Троицк (г. Москва),/Troitsk
+Тюмень,/Tyumen
+Ульяновск,/Ulyanovsk
+Уссурийск,/Ussuriisk
+Уфа,/Ufa
+Ухта,/Uhta
+Ханты-Мансийск,/KhantyMansiysk
+Химки,/Khimki
+Чайковский,/Tchaikovsky
+Чебоксары,/Cheboksari
+Челябинск,/Chelyabinsk
+Череповец,/Cherepovets
+Чехов,/Chehov
+Шахты,/Shahty
+Щелково,/Shelkovo
+Электросталь,/Elektrostal
+Энгельс,/Engels
+Якутск,/Yakutsk
+Ярославль,/Yaroslavl
